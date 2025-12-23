@@ -1,5 +1,5 @@
 import Hero from "@/components/home/Hero";
-import Layout from "./layout";
+import Layout from "../layout";
 import ServicesSection from "@/components/home/Services";
 import AboutSection from "@/components/home/About";
 import WhyChooseUs from "@/components/home/WhyChooseUs";
