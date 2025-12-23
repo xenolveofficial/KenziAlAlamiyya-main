@@ -3,7 +3,7 @@ import  Link  from "next/link";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Users, Monitor, Building2, Plane } from "lucide-react";
-import heroTeam from "../../public/assets/hero-team.jpg";
+import heroTeam from "../../public/assets/hero-team.png";
 
 const Hero = () => {
   const services = [
